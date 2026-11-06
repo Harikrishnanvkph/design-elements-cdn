@@ -1,0 +1,10 @@
+<svg viewBox="0 0 110 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Bulb Glass -->
+    <path d="M35 55 C25 40, 32 20, 55 18 C78 16, 85 35, 75 55 C68 68, 68 78, 68 85 H42 C42 78, 42 68, 35 55 Z" stroke="currentColor" stroke-width="5" fill="none"/>
+    <!-- Screw Base -->
+    <path d="M44 95 H66 M46 105 H64 M48 115 H62" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <!-- Shine Rays -->
+    <line x1="55" y1="6" x2="55" y2="2" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="22" y1="28" x2="14" y2="24" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <line x1="88" y1="28" x2="96" y2="24" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </svg>

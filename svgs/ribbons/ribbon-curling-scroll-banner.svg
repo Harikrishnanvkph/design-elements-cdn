@@ -1,0 +1,8 @@
+<svg viewBox="0 0 300 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Rolled End Left -->
+    <ellipse cx="32" cy="42" rx="14" ry="24" fill="#92400E"/>
+    <!-- Main Center Face -->
+    <path d="M32 18 C110 24, 190 14, 268 20 V64 C190 58, 110 68, 32 62 Z" fill="currentColor"/>
+    <!-- Rolled End Right -->
+    <ellipse cx="268" cy="42" rx="14" ry="24" fill="#B45309"/>
+  </svg>

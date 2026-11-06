@@ -1,0 +1,6 @@
+<svg viewBox="0 0 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Strip 1 NW to SE -->
+    <path d="M15 35 L105 125 L115 115 L25 25 Z" fill="currentColor" fill-opacity="0.85"/>
+    <!-- Strip 2 NE to SW -->
+    <path d="M105 15 L15 105 L25 115 L115 25 Z" fill="currentColor" fill-opacity="0.85"/>
+  </svg>

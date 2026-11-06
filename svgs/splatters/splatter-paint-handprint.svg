@@ -1,0 +1,10 @@
+<svg viewBox="0 0 130 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Palm -->
+    <path d="M40 75 C45 65, 85 65, 95 80 C105 95, 100 135, 75 145 C50 150, 32 135, 30 110 C28 90, 35 80, 40 75 Z" fill="currentColor"/>
+    <!-- 5 Fingers -->
+    <path d="M22 68 C12 60, 18 45, 30 50 C38 54, 38 65, 32 72 Z" fill="currentColor"/>
+    <path d="M38 50 C35 25, 48 20, 52 42 C54 52, 48 58, 42 55 Z" fill="currentColor"/>
+    <path d="M58 45 C60 15, 72 15, 74 40 C75 52, 68 55, 62 50 Z" fill="currentColor"/>
+    <path d="M78 48 C85 22, 95 24, 94 45 C92 55, 85 58, 80 52 Z" fill="currentColor"/>
+    <path d="M98 62 C108 42, 116 48, 110 65 C105 74, 98 72, 96 66 Z" fill="currentColor"/>
+  </svg>

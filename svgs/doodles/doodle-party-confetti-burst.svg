@@ -1,0 +1,16 @@
+<svg viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Streamers -->
+    <path d="M35 35 Q 25 15, 15 22" stroke="#EF4444" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <path d="M105 35 Q 120 15, 128 25" stroke="#3B82F6" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <path d="M105 105 Q 125 115, 118 128" stroke="#10B981" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <path d="M35 105 Q 15 120, 22 130" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <!-- Floating confetti flakes -->
+    <rect x="65" y="15" width="8" height="8" rx="1.5" transform="rotate(25 69 19)" fill="#F59E0B"/>
+    <rect x="20" y="65" width="8" height="8" rx="1.5" transform="rotate(-35 24 69)" fill="#EC4899"/>
+    <rect x="115" y="65" width="8" height="8" rx="1.5" transform="rotate(45 119 69)" fill="#06B6D4"/>
+    <rect x="65" y="115" width="8" height="8" rx="1.5" transform="rotate(15 69 119)" fill="#E11D48"/>
+    <circle cx="45" cy="50" r="3.5" fill="#EAB308"/>
+    <circle cx="95" cy="50" r="3" fill="#10B981"/>
+    <circle cx="45" cy="90" r="3" fill="#3B82F6"/>
+    <circle cx="95" cy="90" r="3.5" fill="#8B5CF6"/>
+  </svg>

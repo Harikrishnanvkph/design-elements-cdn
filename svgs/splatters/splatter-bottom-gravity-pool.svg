@@ -1,0 +1,7 @@
+<svg viewBox="0 0 190 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15 70 C35 60, 75 65, 95 62 C125 58, 155 64, 175 70 C185 75, 170 82, 140 85 C100 88, 40 86, 15 78 Z" fill="currentColor"/>
+    <!-- Upward bounce droplets -->
+    <circle cx="55" cy="40" r="3.5" fill="currentColor"/>
+    <circle cx="95" cy="25" r="4" fill="currentColor"/>
+    <circle cx="135" cy="42" r="3" fill="currentColor"/>
+  </svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 190 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15 120 L160 25 C168 20, 175 25, 170 32 L35 135 C25 142, 10 130, 15 120 Z" fill="currentColor"/>
+    <!-- Diagonally dripping specks -->
+    <path d="M75 75 C75 90, 72 105, 74 115 C75 118, 79 118, 80 115 C81 105, 80 90, 80 75 Z" fill="currentColor"/>
+    <circle cx="77" cy="122" r="3" fill="currentColor"/>
+    <circle cx="120" cy="80" r="2.5" fill="currentColor"/>
+  </svg>

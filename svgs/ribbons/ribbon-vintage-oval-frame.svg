@@ -1,0 +1,6 @@
+<svg viewBox="0 0 170 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="85" cy="65" rx="70" ry="50" stroke="currentColor" stroke-width="4" fill="none"/>
+    <ellipse cx="85" cy="65" rx="60" ry="42" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 4" fill="none"/>
+    <!-- Top & bottom crown flourishes -->
+    <path d="M85 8 L89 16 L85 14 L81 16 Z M85 122 L89 114 L85 116 L81 114 Z" fill="currentColor"/>
+  </svg>

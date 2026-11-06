@@ -1,0 +1,6 @@
+<svg viewBox="0 0 280 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 H280 V18 C265 18, 258 35, 252 58 C250 64, 244 64, 242 58 C238 35, 230 18, 215 18 C205 18, 198 42, 194 78 C192 86, 184 86, 182 78 C176 42, 168 18, 155 18 C145 18, 140 28, 136 46 C134 52, 128 52, 126 46 C122 28, 115 18, 102 18 C92 18, 85 48, 80 96 C78 104, 70 104, 68 96 C62 48, 55 18, 40 18 C30 18, 25 32, 22 50 C20 54, 14 54, 12 50 C8 32, 4 18, 0 18 Z" fill="currentColor"/>
+    <circle cx="80" cy="112" r="4.5" fill="currentColor"/>
+    <circle cx="194" cy="94" r="3.5" fill="currentColor"/>
+    <circle cx="252" cy="72" r="3" fill="currentColor"/>
+  </svg>

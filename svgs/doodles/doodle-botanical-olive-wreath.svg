@@ -1,0 +1,11 @@
+<svg viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="75" cy="75" r="55" stroke="currentColor" stroke-width="2.5" fill="none"/>
+    <path d="M75 18 C82 14, 86 22, 80 25 C75 22, 72 16, 75 18 Z" fill="currentColor"/>
+    <path d="M115 35 C122 38, 120 46, 114 45 C110 40, 112 34, 115 35 Z" fill="currentColor"/>
+    <path d="M132 75 C136 82, 128 86, 125 80 C128 75, 134 72, 132 75 Z" fill="currentColor"/>
+    <path d="M115 115 C112 122, 104 120, 105 114 C110 110, 116 112, 115 115 Z" fill="currentColor"/>
+    <path d="M75 132 C68 136, 64 128, 70 125 C75 128, 78 134, 75 132 Z" fill="currentColor"/>
+    <path d="M35 115 C28 112, 30 104, 36 105 C40 110, 38 116, 35 115 Z" fill="currentColor"/>
+    <path d="M18 75 C14 68, 22 64, 25 70 C22 75, 16 78, 18 75 Z" fill="currentColor"/>
+    <path d="M35 35 C38 28, 46 30, 45 36 C40 40, 34 38, 35 35 Z" fill="currentColor"/>
+  </svg>

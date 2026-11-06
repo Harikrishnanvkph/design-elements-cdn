@@ -1,0 +1,7 @@
+<svg viewBox="0 0 300 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M48 38 L68 42 L66 26 Z" fill="#064E3B"/>
+    <path d="M252 38 L232 42 L234 26 Z" fill="#064E3B"/>
+    <path d="M14 48 C30 52, 48 46, 68 40 L64 16 C45 22, 28 26, 18 22 L26 35 Z" fill="#059669"/>
+    <path d="M286 48 C270 52, 252 46, 232 40 L236 16 C255 22, 272 26, 282 22 L274 35 Z" fill="#059669"/>
+    <path d="M54 44 C115 70, 185 70, 246 44 L244 20 C185 46, 115 46, 56 20 Z" fill="currentColor"/>
+  </svg>

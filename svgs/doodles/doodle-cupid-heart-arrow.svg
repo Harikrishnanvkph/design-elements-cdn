@@ -1,0 +1,7 @@
+<svg viewBox="0 0 140 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M70 95 C55 80, 25 58, 26 35 C28 18, 44 12, 58 20 C64 24, 68 28, 70 32 C72 28, 76 24, 82 20 C96 12, 112 18, 114 35 C115 58, 85 80, 70 95 Z" fill="currentColor"/>
+    <!-- Piercing Arrow -->
+    <path d="M12 105 L128 15" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M128 15 L112 18 M128 15 L125 31" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M12 105 L22 92 M12 105 L25 115" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  </svg>

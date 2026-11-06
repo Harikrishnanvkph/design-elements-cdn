@@ -1,0 +1,8 @@
+<svg viewBox="0 0 120 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="25" y="15" width="70" height="70" rx="6" fill="currentColor"/>
+    <!-- Oozing paint bleed running down from square stencil -->
+    <path d="M35 85 C34 115, 30 145, 34 165 C35 168, 41 168, 42 165 C44 145, 43 115, 43 85 Z" fill="currentColor"/>
+    <circle cx="38" cy="174" r="4" fill="currentColor"/>
+    <path d="M72 85 C73 105, 75 125, 74 140 C73 144, 78 144, 79 140 C80 125, 80 105, 79 85 Z" fill="currentColor"/>
+    <circle cx="76" cy="148" r="3" fill="currentColor"/>
+  </svg>

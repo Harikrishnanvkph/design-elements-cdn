@@ -1,0 +1,5 @@
+<svg viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15 15 H95 L125 45 V125 H15 Z" fill="currentColor"/>
+    <!-- Folded triangular corner -->
+    <path d="M95 15 V45 H125 Z" fill="#CA8A04"/>
+  </svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Base Pink Splash -->
+    <path d="M70 35 C95 25, 120 45, 115 75 C110 100, 85 125, 60 115 C35 105, 30 75, 45 50 C55 35, 65 38, 70 35 Z" fill="#EC4899"/>
+    <!-- Inner Cyan Layer -->
+    <path d="M75 52 C90 45, 105 58, 100 78 C95 95, 78 108, 65 102 C50 95, 48 78, 58 62 C65 52, 70 55, 75 52 Z" fill="#06B6D4"/>
+    <circle cx="128" cy="42" r="4" fill="#EC4899"/>
+    <circle cx="25" cy="98" r="3.5" fill="#06B6D4"/>
+  </svg>

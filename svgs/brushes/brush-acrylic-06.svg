@@ -1,6 +1,0 @@
-<svg viewBox="0 0 320 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 38 C40 28, 110 34, 180 30 C240 35, 285 38, 308 44 C302 70, 255 62, 190 66 C130 61, 55 69, 14 62 C8 34, 7 26, 12 38 Z" fill="currentColor"/>
-      <path d="M25 44 C75 40, 145 38, 215 40 C265 44, 295 46, 290 58 C245 56, 160 58, 80 58, 30 60 Z" fill="currentColor" opacity="0.8"/>
-      <circle cx="306" cy="48" r="2" fill="currentColor"/>
-      <circle cx="14" cy="60" r="1.5" fill="currentColor"/>
-    </svg>
