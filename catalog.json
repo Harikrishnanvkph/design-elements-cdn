@@ -1,0 +1,3488 @@
+[
+  {
+    "id": "brush-acrylic-01",
+    "name": "Acrylic Brush Stroke 1",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 20 C40 10, 110 16, 180 12 C240 17, 285 20, 308 26 C302 46, 255 38, 190 42 C130 37, 55 45, 14 38 C8 34, 7 26, 12 20 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 26 C75 22, 145 20, 215 22 C265 26, 295 28, 290 34 C245 32, 160 34, 80 34, 30 36 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"311\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"9\" cy=\"36\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-02",
+    "name": "Acrylic Brush Stroke 2",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 26 C40 16, 110 22, 180 18 C240 23, 285 26, 308 32 C302 58, 255 50, 190 54 C130 49, 55 57, 14 50 C8 34, 7 26, 12 26 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 32 C75 28, 145 26, 215 28 C265 32, 295 34, 290 46 C245 44, 160 46, 80 46, 30 48 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"310\" cy=\"36\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"10\" cy=\"48\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-03",
+    "name": "Acrylic Brush Stroke 3",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 8 C40 -2, 110 4, 180 0 C240 5, 285 8, 308 14 C302 46, 255 38, 190 42 C130 37, 55 45, 14 38 C8 34, 7 26, 12 8 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 14 C75 10, 145 8, 215 10 C265 14, 295 16, 290 34 C245 32, 160 34, 80 34, 30 36 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"309\" cy=\"18\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"11\" cy=\"36\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-04",
+    "name": "Acrylic Brush Stroke 4",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 38 C40 28, 110 34, 180 30 C240 35, 285 38, 308 44 C302 58, 255 50, 190 54 C130 49, 55 57, 14 50 C8 34, 7 26, 12 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 44 C75 40, 145 38, 215 40 C265 44, 295 46, 290 46 C245 44, 160 46, 80 46, 30 48 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"308\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"12\" cy=\"48\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-05",
+    "name": "Acrylic Brush Stroke 5",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 8 C40 -2, 110 4, 180 0 C240 5, 285 8, 308 14 C302 34, 255 26, 190 30 C130 25, 55 33, 14 26 C8 34, 7 26, 12 8 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 14 C75 10, 145 8, 215 10 C265 14, 295 16, 290 22 C245 20, 160 22, 80 22, 30 24 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"307\" cy=\"18\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"13\" cy=\"24\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-06",
+    "name": "Acrylic Brush Stroke 6",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 38 C40 28, 110 34, 180 30 C240 35, 285 38, 308 44 C302 70, 255 62, 190 66 C130 61, 55 69, 14 62 C8 34, 7 26, 12 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 44 C75 40, 145 38, 215 40 C265 44, 295 46, 290 58 C245 56, 160 58, 80 58, 30 60 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"306\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"14\" cy=\"60\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-07",
+    "name": "Acrylic Brush Stroke 7",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 -4 C40 -14, 110 -8, 180 -12 C240 -7, 285 -4, 308 2 C302 34, 255 26, 190 30 C130 25, 55 33, 14 26 C8 34, 7 26, 12 -4 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 2 C75 -2, 145 -4, 215 -2 C265 2, 295 4, 290 22 C245 20, 160 22, 80 22, 30 24 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"305\" cy=\"6\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"15\" cy=\"24\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-08",
+    "name": "Acrylic Brush Stroke 8",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 50 C40 40, 110 46, 180 42 C240 47, 285 50, 308 56 C302 70, 255 62, 190 66 C130 61, 55 69, 14 62 C8 34, 7 26, 12 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 56 C75 52, 145 50, 215 52 C265 56, 295 58, 290 58 C245 56, 160 58, 80 58, 30 60 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"304\" cy=\"60\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"16\" cy=\"60\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-09",
+    "name": "Acrylic Brush Stroke 9",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 -4 C40 -14, 110 -8, 180 -12 C240 -7, 285 -4, 308 2 C302 22, 255 14, 190 18 C130 13, 55 21, 14 14 C8 34, 7 26, 12 -4 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 2 C75 -2, 145 -4, 215 -2 C265 2, 295 4, 290 10 C245 8, 160 10, 80 10, 30 12 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"303\" cy=\"6\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"17\" cy=\"12\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-acrylic-10",
+    "name": "Acrylic Brush Stroke 10",
+    "category": "brushes",
+    "tags": [
+      "brush",
+      "acrylic",
+      "stroke",
+      "paint",
+      "underline",
+      "art",
+      "texture"
+    ],
+    "width": 280,
+    "height": 50,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 50 C40 40, 110 46, 180 42 C240 47, 285 50, 308 56 C302 82, 255 74, 190 78 C130 73, 55 81, 14 74 C8 34, 7 26, 12 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M25 56 C75 52, 145 50, 215 52 C265 56, 295 58, 290 70 C245 68, 160 70, 80 70, 30 72 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n      <circle cx=\"302\" cy=\"60\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"72\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-01",
+    "name": "Paint Roller Stripe 1",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 13, 160 7, 240 12, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 52, 140 47, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-02",
+    "name": "Paint Roller Stripe 2",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 10, 160 9, 240 13, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 50, 140 48, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-03",
+    "name": "Paint Roller Stripe 3",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 13, 160 7, 240 11, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 52, 140 47, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-04",
+    "name": "Paint Roller Stripe 4",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 10, 160 9, 240 12, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 50, 140 48, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-05",
+    "name": "Paint Roller Stripe 5",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 13, 160 7, 240 13, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 52, 140 47, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-roller-06",
+    "name": "Paint Roller Stripe 6",
+    "category": "brushes",
+    "tags": [
+      "roller",
+      "stripe",
+      "banner",
+      "paint",
+      "heading",
+      "poster"
+    ],
+    "width": 290,
+    "height": 55,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 320 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M15 10 C70 10, 160 9, 240 11, 305 12 C312 16, 314 28, 312 42 C310 48, 305 52, 298 52 C230 50, 140 48, 60 51, 14 49 C7 45, 6 32, 8 18 C9 13, 11 11, 15 10 Z\" fill=\"currentColor\"/>\n      <path d=\"M5 16 C2 18, 3 26, 5 34 C4 38, 8 30, 7 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"316\" cy=\"48\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"7\" cy=\"44\" r=\"1.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-01",
+    "name": "Calligraphy Swoosh 1",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 28 C50 14.666666666666666, 110 13, 165 18.666666666666668 C215 24, 245 20, 274 10.666666666666666 C268 27.333333333333332, 225 39, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 28 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-02",
+    "name": "Calligraphy Swoosh 2",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 26 C50 13.333333333333334, 110 12, 165 17.333333333333332 C215 22, 245 18, 274 9.333333333333334 C268 28.666666666666668, 225 40, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 26 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-03",
+    "name": "Calligraphy Swoosh 3",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 24 C50 12, 110 11, 165 16 C215 20, 245 16, 274 8 C268 30, 225 41, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-04",
+    "name": "Calligraphy Swoosh 4",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 22 C50 10.666666666666668, 110 10, 165 14.666666666666668 C215 18, 245 14, 274 6.666666666666667 C268 31.333333333333332, 225 42, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 22 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-05",
+    "name": "Calligraphy Swoosh 5",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 20 C50 9.333333333333332, 110 9, 165 13.333333333333332 C215 16, 245 12, 274 5.333333333333333 C268 32.666666666666664, 225 43, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 20 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-calligraphy-06",
+    "name": "Calligraphy Swoosh 6",
+    "category": "brushes",
+    "tags": [
+      "calligraphy",
+      "swoosh",
+      "flourish",
+      "underline",
+      "curve",
+      "elegant"
+    ],
+    "width": 250,
+    "height": 42,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 280 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 18 C50 8, 110 8, 165 12 C215 14, 245 10, 274 4 C268 34, 225 44, 175 36 C120 34, 65 38, 24 42 C14 43, 8 38, 12 18 Z\" fill=\"currentColor\"/>\n      <path d=\"M255 14 C265 11, 274 9, 277 10 C273 16, 262 19, 255 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-01",
+    "name": "Dry Bristle Grunge Stroke 1",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-02",
+    "name": "Dry Bristle Grunge Stroke 2",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-03",
+    "name": "Dry Bristle Grunge Stroke 3",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-04",
+    "name": "Dry Bristle Grunge Stroke 4",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-05",
+    "name": "Dry Bristle Grunge Stroke 5",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-dry-06",
+    "name": "Dry Bristle Grunge Stroke 6",
+    "category": "brushes",
+    "tags": [
+      "dry",
+      "bristle",
+      "grunge",
+      "distressed",
+      "textured",
+      "stroke"
+    ],
+    "width": 290,
+    "height": 52,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 340 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M14 24 C55 16, 120 14, 185 17 C245 20, 295 18, 332 23 C338 27, 335 34, 326 36 C275 38, 195 36, 125 41 C65 40, 24 37, 8 32 C4 28, 7 26, 14 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M30 20 L80 18 L160 21 L240 19 L300 24 L260 28 L170 28 L90 29 L40 28 Z\" fill=\"currentColor\" opacity=\"0.65\"/>\n      <path d=\"M50 34 L130 33 L210 35 L280 34 L250 37 L160 38 L70 38 Z\" fill=\"currentColor\" opacity=\"0.5\"/>\n      <circle cx=\"336\" cy=\"30\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"5\" cy=\"30\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-01",
+    "name": "Watercolor Organic Wash 1",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-02",
+    "name": "Watercolor Organic Wash 2",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-03",
+    "name": "Watercolor Organic Wash 3",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-04",
+    "name": "Watercolor Organic Wash 4",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-05",
+    "name": "Watercolor Organic Wash 5",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-watercolor-06",
+    "name": "Watercolor Organic Wash 6",
+    "category": "brushes",
+    "tags": [
+      "watercolor",
+      "wash",
+      "organic",
+      "soft",
+      "cloud",
+      "art"
+    ],
+    "width": 250,
+    "height": 100,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 280 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M40 30 C80 16, 145 20, 200 26 C245 30, 265 46, 260 70 C254 94, 218 102, 168 98 C118 94, 62 104, 30 88 C10 78, 6 54, 20 40 C26 34, 34 30, 40 30 Z\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <path d=\"M58 40 C98 30, 158 34, 202 40 C235 45, 245 60, 238 75 C228 90, 188 92, 145 90 C100 88, 55 94, 40 82 C30 72, 35 50, 58 40 Z\" fill=\"currentColor\"/>\n      <circle cx=\"266\" cy=\"50\" r=\"3\" fill=\"currentColor\" opacity=\"0.75\"/>\n      <circle cx=\"16\" cy=\"65\" r=\"2.5\" fill=\"currentColor\" opacity=\"0.75\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-01",
+    "name": "Zen Ink Brush Circle 1",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"47\" cy=\"139\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-02",
+    "name": "Zen Ink Brush Circle 2",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"49\" cy=\"135\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-03",
+    "name": "Zen Ink Brush Circle 3",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"51\" cy=\"139\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-04",
+    "name": "Zen Ink Brush Circle 4",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"53\" cy=\"135\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-05",
+    "name": "Zen Ink Brush Circle 5",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"55\" cy=\"139\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "brush-zen-06",
+    "name": "Zen Ink Brush Circle 6",
+    "category": "brushes",
+    "tags": [
+      "zen",
+      "enso",
+      "circle",
+      "ink",
+      "brush",
+      "calligraphy",
+      "japan"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 18 C105 15, 138 42, 136 82 C134 118, 102 142, 65 138 C32 134, 12 108, 14 74 C16 46, 34 26, 58 18 C64 16, 68 20, 62 25 C42 32, 28 50, 26 74 C24 102, 44 124, 72 126 C100 128, 124 108, 126 80 C128 50, 102 28, 72 30 C66 30, 64 24, 68 18 Z\" fill=\"currentColor\"/>\n      <circle cx=\"57\" cy=\"135\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"42\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-01",
+    "name": "Hanging Gravity Paint Drip 1",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 65 C244 71, 238 71, 236 65 C232 35, 222 16, 208 16 C198 16, 192 40, 188 90 C186 98, 178 98, 176 90 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 80 C70 88, 62 88, 60 80 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"106\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"96\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"79\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-02",
+    "name": "Hanging Gravity Paint Drip 2",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 80 C244 86, 238 86, 236 80 C232 35, 222 16, 208 16 C198 16, 192 40, 188 110 C186 118, 178 118, 176 110 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 100 C70 108, 62 108, 60 100 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"126\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"116\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"94\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-03",
+    "name": "Hanging Gravity Paint Drip 3",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 95 C244 101, 238 101, 236 95 C232 35, 222 16, 208 16 C198 16, 192 40, 188 70 C186 78, 178 78, 176 70 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 60 C70 68, 62 68, 60 60 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"86\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"76\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"109\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-04",
+    "name": "Hanging Gravity Paint Drip 4",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 50 C244 56, 238 56, 236 50 C232 35, 222 16, 208 16 C198 16, 192 40, 188 90 C186 98, 178 98, 176 90 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 80 C70 88, 62 88, 60 80 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"106\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"96\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"64\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-05",
+    "name": "Hanging Gravity Paint Drip 5",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 65 C244 71, 238 71, 236 65 C232 35, 222 16, 208 16 C198 16, 192 40, 188 110 C186 118, 178 118, 176 110 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 100 C70 108, 62 108, 60 100 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"126\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"116\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"79\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-06",
+    "name": "Hanging Gravity Paint Drip 6",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 80 C244 86, 238 86, 236 80 C232 35, 222 16, 208 16 C198 16, 192 40, 188 70 C186 78, 178 78, 176 70 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 60 C70 68, 62 68, 60 60 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"86\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"76\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"94\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-07",
+    "name": "Hanging Gravity Paint Drip 7",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 95 C244 101, 238 101, 236 95 C232 35, 222 16, 208 16 C198 16, 192 40, 188 90 C186 98, 178 98, 176 90 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 80 C70 88, 62 88, 60 80 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"106\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"96\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"109\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-drip-08",
+    "name": "Hanging Gravity Paint Drip 8",
+    "category": "splatters",
+    "tags": [
+      "drip",
+      "gravity",
+      "paint",
+      "hang",
+      "border",
+      "graffiti",
+      "street"
+    ],
+    "width": 250,
+    "height": 110,
+    "defaultColor": "#14B8A6",
+    "svg": "<svg viewBox=\"0 0 280 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M0 0 H280 V16 C260 16, 252 35, 246 50 C244 56, 238 56, 236 50 C232 35, 222 16, 208 16 C198 16, 192 40, 188 110 C186 118, 178 118, 176 110 C170 40, 162 16, 148 16 C138 16, 134 26, 130 42 C128 48, 122 48, 120 42 C116 26, 108 16, 95 16 C85 16, 78 45, 72 100 C70 108, 62 108, 60 100 C54 45, 48 16, 32 16 C24 16, 18 30, 15 48 C14 52, 8 52, 6 48 C4 30, 2 16, 0 16 Z\" fill=\"currentColor\"/>\n      <circle cx=\"188\" cy=\"126\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"72\" cy=\"116\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"246\" cy=\"64\" r=\"3\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-01",
+    "name": "Explosive Splatter Burst 1",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"97\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"43\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"136\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"36\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-02",
+    "name": "Explosive Splatter Burst 2",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"99\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"46\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"134\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"37\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-03",
+    "name": "Explosive Splatter Burst 3",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"101\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"49\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"132\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"38\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-04",
+    "name": "Explosive Splatter Burst 4",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"103\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"52\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"130\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"39\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-05",
+    "name": "Explosive Splatter Burst 5",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"105\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"55\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"128\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"40\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-06",
+    "name": "Explosive Splatter Burst 6",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#14B8A6",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"107\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"58\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"126\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"41\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-07",
+    "name": "Explosive Splatter Burst 7",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"109\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"61\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"124\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-burst-08",
+    "name": "Explosive Splatter Burst 8",
+    "category": "splatters",
+    "tags": [
+      "splatter",
+      "burst",
+      "splash",
+      "explosion",
+      "ink",
+      "pop",
+      "droplets"
+    ],
+    "width": 140,
+    "height": 140,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M78 45 C86 28, 98 34, 94 48 C108 38, 122 45, 112 58 C128 58, 134 74, 120 82 C135 94, 125 110, 110 106 C115 122, 100 132, 88 120 C78 135, 62 130, 65 114 C48 122, 38 108, 48 96 C32 90, 36 72, 50 68 C38 54, 52 42, 65 52 C68 38, 74 36, 78 45 Z\" fill=\"currentColor\"/>\n      <circle cx=\"111\" cy=\"22\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"142\" cy=\"64\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"105\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"138\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"82\" cy=\"148\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"43\" cy=\"134\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"18\" cy=\"82\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"35\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"58\" cy=\"16\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-01",
+    "name": "Airbrush Spray Mist 1",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-02",
+    "name": "Airbrush Spray Mist 2",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-03",
+    "name": "Airbrush Spray Mist 3",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-04",
+    "name": "Airbrush Spray Mist 4",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-05",
+    "name": "Airbrush Spray Mist 5",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#14B8A6",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-06",
+    "name": "Airbrush Spray Mist 6",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-07",
+    "name": "Airbrush Spray Mist 7",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-spray-08",
+    "name": "Airbrush Spray Mist 8",
+    "category": "splatters",
+    "tags": [
+      "spray",
+      "airbrush",
+      "mist",
+      "texture",
+      "speckles",
+      "grunge"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"75\" cy=\"75\" r=\"28\" fill=\"currentColor\" opacity=\"0.6\"/>\n      <circle cx=\"75\" cy=\"75\" r=\"15\" fill=\"currentColor\"/>\n      <circle cx=\"60\" cy=\"68\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"88\" cy=\"65\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"88\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"42\" cy=\"52\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"110\" cy=\"48\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"80\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"106\" cy=\"108\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"56\" cy=\"112\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"32\" cy=\"85\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"48\" cy=\"32\" r=\"1.5\" fill=\"currentColor\"/>\n      <circle cx=\"90\" cy=\"28\" r=\"2\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-01",
+    "name": "Liquid Ink Blot 1",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"113\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-02",
+    "name": "Liquid Ink Blot 2",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-03",
+    "name": "Liquid Ink Blot 3",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"115\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-04",
+    "name": "Liquid Ink Blot 4",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#14B8A6",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"116\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-05",
+    "name": "Liquid Ink Blot 5",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"117\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-06",
+    "name": "Liquid Ink Blot 6",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"118\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-07",
+    "name": "Liquid Ink Blot 7",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"119\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-blot-08",
+    "name": "Liquid Ink Blot 8",
+    "category": "splatters",
+    "tags": [
+      "ink",
+      "blot",
+      "liquid",
+      "puddle",
+      "pool",
+      "blob",
+      "drop"
+    ],
+    "width": 125,
+    "height": 125,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M68 30 C90 25, 115 42, 112 68 C110 88, 125 102, 105 115 C85 125, 55 120, 42 108 C25 95, 20 72, 35 52 C48 35, 55 32, 68 30 Z\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"36\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"122\" cy=\"72\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"28\" cy=\"32\" r=\"4\" fill=\"currentColor\"/>\n      <circle cx=\"20\" cy=\"102\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"62\" cy=\"125\" r=\"4\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-01",
+    "name": "Directional Velocity Splatter 1",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-02",
+    "name": "Directional Velocity Splatter 2",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-03",
+    "name": "Directional Velocity Splatter 3",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#14B8A6",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-04",
+    "name": "Directional Velocity Splatter 4",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-05",
+    "name": "Directional Velocity Splatter 5",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-06",
+    "name": "Directional Velocity Splatter 6",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-07",
+    "name": "Directional Velocity Splatter 7",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "splatter-velocity-08",
+    "name": "Directional Velocity Splatter 8",
+    "category": "splatters",
+    "tags": [
+      "velocity",
+      "flick",
+      "speed",
+      "splatter",
+      "dynamic",
+      "action"
+    ],
+    "width": 160,
+    "height": 135,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 200 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M30 130 C45 115, 75 80, 105 60 C125 48, 145 38, 165 25 C155 45, 135 75, 110 105 C85 130, 50 145, 30 130 Z\" fill=\"currentColor\"/>\n      <circle cx=\"178\" cy=\"18\" r=\"4.5\" fill=\"currentColor\"/>\n      <circle cx=\"192\" cy=\"28\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"168\" cy=\"42\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"145\" cy=\"20\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"185\" cy=\"55\" r=\"2\" fill=\"currentColor\"/>\n      <circle cx=\"120\" cy=\"45\" r=\"2.5\" fill=\"currentColor\"/>\n      <circle cx=\"140\" cy=\"85\" r=\"3\" fill=\"currentColor\"/>\n      <circle cx=\"95\" cy=\"125\" r=\"3.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-01",
+    "name": "Marker Underline Stroke 1",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 14, 140 12, 215 16, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-02",
+    "name": "Marker Underline Stroke 2",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 16, 140 13, 215 14, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-03",
+    "name": "Marker Underline Stroke 3",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 12, 140 12, 215 16, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-04",
+    "name": "Marker Underline Stroke 4",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 14, 140 13, 215 14, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-05",
+    "name": "Marker Underline Stroke 5",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 16, 140 12, 215 16, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-06",
+    "name": "Marker Underline Stroke 6",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 12, 140 13, 215 14, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-07",
+    "name": "Marker Underline Stroke 7",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 14, 140 12, 215 16, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-underline-08",
+    "name": "Marker Underline Stroke 8",
+    "category": "highlighters",
+    "tags": [
+      "marker",
+      "underline",
+      "highlight",
+      "emphasis",
+      "strike"
+    ],
+    "width": 250,
+    "height": 30,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 280 34\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M10 18 C65 16, 140 13, 215 14, 272 16 C264 22, 218 24, 165 22 C105 21, 50 25, 8 22 C6 19, 8 18, 10 18 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-01",
+    "name": "Double Strike Marker Underline 1",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-02",
+    "name": "Double Strike Marker Underline 2",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-03",
+    "name": "Double Strike Marker Underline 3",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-04",
+    "name": "Double Strike Marker Underline 4",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-05",
+    "name": "Double Strike Marker Underline 5",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-double-underline-06",
+    "name": "Double Strike Marker Underline 6",
+    "category": "highlighters",
+    "tags": [
+      "underline",
+      "double",
+      "strike",
+      "marker",
+      "accent"
+    ],
+    "width": 250,
+    "height": 34,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 280 38\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 C65 6, 135 7, 205 9 C235 10, 260 8, 274 12 C262 16, 215 16, 165 14 C105 13, 50 15, 8 13 Z\" fill=\"currentColor\"/>\n      <path d=\"M35 24 C85 20, 150 21, 215 22 C245 23, 268 22, 278 25 C265 29, 220 28, 170 27 C110 26, 60 28, 30 26 Z\" fill=\"currentColor\" opacity=\"0.8\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-01",
+    "name": "Wavy Scribble Underline 1",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-02",
+    "name": "Wavy Scribble Underline 2",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-03",
+    "name": "Wavy Scribble Underline 3",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-04",
+    "name": "Wavy Scribble Underline 4",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-05",
+    "name": "Wavy Scribble Underline 5",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-wavy-06",
+    "name": "Wavy Scribble Underline 6",
+    "category": "highlighters",
+    "tags": [
+      "wavy",
+      "squiggle",
+      "underline",
+      "scribble",
+      "marker"
+    ],
+    "width": 240,
+    "height": 36,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 260 40\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M8 20 Q 30 8, 50 20 T 90 20 T 130 20 T 170 20 T 210 20 T 252 20 C 255 24, 250 28, 245 26 Q 225 36, 205 24 T 165 24 T 125 24 T 85 24 T 45 24 T 12 28 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-01",
+    "name": "Sketchy Emphasis Loop Circle 1",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-02",
+    "name": "Sketchy Emphasis Loop Circle 2",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-03",
+    "name": "Sketchy Emphasis Loop Circle 3",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-04",
+    "name": "Sketchy Emphasis Loop Circle 4",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-05",
+    "name": "Sketchy Emphasis Loop Circle 5",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-06",
+    "name": "Sketchy Emphasis Loop Circle 6",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-07",
+    "name": "Sketchy Emphasis Loop Circle 7",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-circle-08",
+    "name": "Sketchy Emphasis Loop Circle 8",
+    "category": "highlighters",
+    "tags": [
+      "circle",
+      "loop",
+      "emphasis",
+      "stat",
+      "marker",
+      "highlight",
+      "doodle"
+    ],
+    "width": 140,
+    "height": 95,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 160 105\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 48 C28 32, 52 16, 88 15 C124 14, 150 32, 148 56 C146 80, 116 95, 78 94 C38 93, 14 74, 18 50 C22 28, 56 12, 98 12 C140 12, 158 35, 154 62 C150 88, 112 102, 68 100 C34 98, 22 84, 25 70 C28 56, 44 48, 62 48\" stroke=\"currentColor\" stroke-width=\"4.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-01",
+    "name": "Hand-Drawn Growth Arrow 1",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-02",
+    "name": "Hand-Drawn Growth Arrow 2",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-03",
+    "name": "Hand-Drawn Growth Arrow 3",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-04",
+    "name": "Hand-Drawn Growth Arrow 4",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-05",
+    "name": "Hand-Drawn Growth Arrow 5",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-06",
+    "name": "Hand-Drawn Growth Arrow 6",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-07",
+    "name": "Hand-Drawn Growth Arrow 7",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-arrow-08",
+    "name": "Hand-Drawn Growth Arrow 8",
+    "category": "highlighters",
+    "tags": [
+      "arrow",
+      "pointer",
+      "growth",
+      "chart",
+      "spike",
+      "doodle",
+      "handdrawn"
+    ],
+    "width": 140,
+    "height": 110,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 160 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M22 100 C35 94, 60 84, 75 66 C90 48, 85 28, 68 27 C48 26, 40 44, 54 62 C68 80, 102 80, 125 50 C135 36, 142 20, 146 8\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M146 8 L122 18 M146 8 L148 32\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-frame-01",
+    "name": "Hand-Drawn Highlighter Frame 1",
+    "category": "highlighters",
+    "tags": [
+      "frame",
+      "box",
+      "border",
+      "marker",
+      "highlight"
+    ],
+    "width": 135,
+    "height": 135,
+    "defaultColor": "#F97316",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 22 C45 16, 95 18, 138 20 C144 26, 140 32, 132 30 C95 28, 48 26, 15 32 C10 30, 9 24, 12 22 Z\" fill=\"currentColor\"/>\n      <path d=\"M136 18 C142 45, 140 92, 138 136 C130 142, 124 138, 126 128 C128 92, 130 48, 124 16 C128 14, 134 14, 136 18 Z\" fill=\"currentColor\"/>\n      <path d=\"M140 128 C105 134, 55 132, 14 130 C8 124, 12 118, 20 120 C55 122, 102 124, 135 118 C140 120, 141 126, 140 128 Z\" fill=\"currentColor\"/>\n      <path d=\"M18 135 C12 108, 14 62, 16 16 C24 10, 30 14, 28 24 C26 60, 24 105, 30 136 C26 138, 20 138, 18 135 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-frame-02",
+    "name": "Hand-Drawn Highlighter Frame 2",
+    "category": "highlighters",
+    "tags": [
+      "frame",
+      "box",
+      "border",
+      "marker",
+      "highlight"
+    ],
+    "width": 135,
+    "height": 135,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 22 C45 16, 95 18, 138 20 C144 26, 140 32, 132 30 C95 28, 48 26, 15 32 C10 30, 9 24, 12 22 Z\" fill=\"currentColor\"/>\n      <path d=\"M136 18 C142 45, 140 92, 138 136 C130 142, 124 138, 126 128 C128 92, 130 48, 124 16 C128 14, 134 14, 136 18 Z\" fill=\"currentColor\"/>\n      <path d=\"M140 128 C105 134, 55 132, 14 130 C8 124, 12 118, 20 120 C55 122, 102 124, 135 118 C140 120, 141 126, 140 128 Z\" fill=\"currentColor\"/>\n      <path d=\"M18 135 C12 108, 14 62, 16 16 C24 10, 30 14, 28 24 C26 60, 24 105, 30 136 C26 138, 20 138, 18 135 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-frame-03",
+    "name": "Hand-Drawn Highlighter Frame 3",
+    "category": "highlighters",
+    "tags": [
+      "frame",
+      "box",
+      "border",
+      "marker",
+      "highlight"
+    ],
+    "width": 135,
+    "height": 135,
+    "defaultColor": "#EAB308",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 22 C45 16, 95 18, 138 20 C144 26, 140 32, 132 30 C95 28, 48 26, 15 32 C10 30, 9 24, 12 22 Z\" fill=\"currentColor\"/>\n      <path d=\"M136 18 C142 45, 140 92, 138 136 C130 142, 124 138, 126 128 C128 92, 130 48, 124 16 C128 14, 134 14, 136 18 Z\" fill=\"currentColor\"/>\n      <path d=\"M140 128 C105 134, 55 132, 14 130 C8 124, 12 118, 20 120 C55 122, 102 124, 135 118 C140 120, 141 126, 140 128 Z\" fill=\"currentColor\"/>\n      <path d=\"M18 135 C12 108, 14 62, 16 16 C24 10, 30 14, 28 24 C26 60, 24 105, 30 136 C26 138, 20 138, 18 135 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "marker-frame-04",
+    "name": "Hand-Drawn Highlighter Frame 4",
+    "category": "highlighters",
+    "tags": [
+      "frame",
+      "box",
+      "border",
+      "marker",
+      "highlight"
+    ],
+    "width": 135,
+    "height": 135,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 150 150\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 22 C45 16, 95 18, 138 20 C144 26, 140 32, 132 30 C95 28, 48 26, 15 32 C10 30, 9 24, 12 22 Z\" fill=\"currentColor\"/>\n      <path d=\"M136 18 C142 45, 140 92, 138 136 C130 142, 124 138, 126 128 C128 92, 130 48, 124 16 C128 14, 134 14, 136 18 Z\" fill=\"currentColor\"/>\n      <path d=\"M140 128 C105 134, 55 132, 14 130 C8 124, 12 118, 20 120 C55 122, 102 124, 135 118 C140 120, 141 126, 140 128 Z\" fill=\"currentColor\"/>\n      <path d=\"M18 135 C12 108, 14 62, 16 16 C24 10, 30 14, 28 24 C26 60, 24 105, 30 136 C26 138, 20 138, 18 135 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-01",
+    "name": "Vintage 3D Folded Ribbon Banner 1",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-02",
+    "name": "Vintage 3D Folded Ribbon Banner 2",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-03",
+    "name": "Vintage 3D Folded Ribbon Banner 3",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-04",
+    "name": "Vintage 3D Folded Ribbon Banner 4",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-05",
+    "name": "Vintage 3D Folded Ribbon Banner 5",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-06",
+    "name": "Vintage 3D Folded Ribbon Banner 6",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-07",
+    "name": "Vintage 3D Folded Ribbon Banner 7",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-folded-08",
+    "name": "Vintage 3D Folded Ribbon Banner 8",
+    "category": "ribbons",
+    "tags": [
+      "ribbon",
+      "banner",
+      "vintage",
+      "folded",
+      "header",
+      "title",
+      "3d"
+    ],
+    "width": 280,
+    "height": 70,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 320 80\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M42 42 L65 42 L65 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M278 42 L255 42 L255 58 Z\" fill=\"#92400E\"/>\n      <path d=\"M12 24 L65 24 L65 52 L12 52 L26 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M308 24 L255 24 L255 52 L308 52 L294 38 Z\" fill=\"#D97706\"/>\n      <path d=\"M52 14 L268 14 C272 14, 274 16, 274 20 L274 46 C274 50, 272 52, 268 52 L52 52 C48 52, 46 50, 46 46 L46 20 C46 16, 48 14, 52 14 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-01",
+    "name": "Arched Header Ribbon Banner 1",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-02",
+    "name": "Arched Header Ribbon Banner 2",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-03",
+    "name": "Arched Header Ribbon Banner 3",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-04",
+    "name": "Arched Header Ribbon Banner 4",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-05",
+    "name": "Arched Header Ribbon Banner 5",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-06",
+    "name": "Arched Header Ribbon Banner 6",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-07",
+    "name": "Arched Header Ribbon Banner 7",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-arch-08",
+    "name": "Arched Header Ribbon Banner 8",
+    "category": "ribbons",
+    "tags": [
+      "banner",
+      "ribbon",
+      "arch",
+      "curved",
+      "vintage",
+      "poster"
+    ],
+    "width": 260,
+    "height": 80,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 300 90\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M48 54 L68 50 L66 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M252 54 L232 50 L234 65 Z\" fill=\"#312E81\"/>\n      <path d=\"M14 42 C30 38, 48 44, 68 50 L64 74 C45 68, 28 64, 18 68 L26 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M286 42 C270 38, 252 44, 232 50 L236 74 C255 68, 272 64, 282 68 L274 55 Z\" fill=\"#4F46E5\"/>\n      <path d=\"M54 44 C115 18, 185 18, 246 44 L244 68 C185 44, 115 44, 56 68 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-01",
+    "name": "Washi Masking Tape Strip 1",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-02",
+    "name": "Washi Masking Tape Strip 2",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-03",
+    "name": "Washi Masking Tape Strip 3",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-04",
+    "name": "Washi Masking Tape Strip 4",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-05",
+    "name": "Washi Masking Tape Strip 5",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-06",
+    "name": "Washi Masking Tape Strip 6",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-07",
+    "name": "Washi Masking Tape Strip 7",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-washi-08",
+    "name": "Washi Masking Tape Strip 8",
+    "category": "ribbons",
+    "tags": [
+      "tape",
+      "washi",
+      "masking",
+      "ripped",
+      "craft",
+      "photo",
+      "pin"
+    ],
+    "width": 220,
+    "height": 52,
+    "defaultColor": "#CBD5E1",
+    "svg": "<svg viewBox=\"0 0 240 56\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z\" fill=\"currentColor\" fill-opacity=\"0.85\"/>\n      <line x1=\"40\" y1=\"12\" x2=\"65\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"120\" y1=\"12\" x2=\"145\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n      <line x1=\"190\" y1=\"12\" x2=\"215\" y2=\"44\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-01",
+    "name": "Champion Award Rosette 1",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-02",
+    "name": "Champion Award Rosette 2",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-03",
+    "name": "Champion Award Rosette 3",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-04",
+    "name": "Champion Award Rosette 4",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-05",
+    "name": "Champion Award Rosette 5",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-06",
+    "name": "Champion Award Rosette 6",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-07",
+    "name": "Champion Award Rosette 7",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-rosette-08",
+    "name": "Champion Award Rosette 8",
+    "category": "ribbons",
+    "tags": [
+      "award",
+      "rosette",
+      "medal",
+      "ribbon",
+      "champion",
+      "first",
+      "badge"
+    ],
+    "width": 120,
+    "height": 160,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 140 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M52 105 L35 168 L55 158 L68 172 L64 105 Z\" fill=\"#CA8A04\"/>\n      <path d=\"M88 105 L105 168 L85 158 L72 172 L76 105 Z\" fill=\"#A16207\"/>\n      <path d=\"M70 12 L79 23 L93 18 L98 32 L112 32 L111 47 L124 53 L118 67 L127 78 L116 88 L120 102 L106 107 L104 122 L90 120 L82 132 L70 124 L58 132 L50 120 L36 122 L34 107 L20 102 L24 88 L13 78 L22 67 L16 53 L29 47 L28 32 L42 32 L47 18 L61 23 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"32\" fill=\"#FEF08A\"/>\n      <circle cx=\"70\" cy=\"72\" r=\"26\" stroke=\"#CA8A04\" stroke-width=\"3\" fill=\"none\"/>\n      <path d=\"M70 54 L74 65 L86 65 L76 72 L80 84 L70 77 L60 84 L64 72 L54 65 L66 65 Z\" fill=\"#CA8A04\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-01",
+    "name": "Retro Starburst Sale Seal 1",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-02",
+    "name": "Retro Starburst Sale Seal 2",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#EC4899",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-03",
+    "name": "Retro Starburst Sale Seal 3",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#06B6D4",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-04",
+    "name": "Retro Starburst Sale Seal 4",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-05",
+    "name": "Retro Starburst Sale Seal 5",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#6366F1",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-06",
+    "name": "Retro Starburst Sale Seal 6",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#E11D48",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-07",
+    "name": "Retro Starburst Sale Seal 7",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "ribbon-seal-08",
+    "name": "Retro Starburst Sale Seal 8",
+    "category": "ribbons",
+    "tags": [
+      "starburst",
+      "sale",
+      "burst",
+      "seal",
+      "promo",
+      "sticker",
+      "pop"
+    ],
+    "width": 130,
+    "height": 130,
+    "defaultColor": "#3B82F6",
+    "svg": "<svg viewBox=\"0 0 140 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M70 5 L80 22 L100 12 L104 32 L125 30 L120 50 L138 58 L126 75 L140 88 L122 98 L128 118 L108 120 L105 138 L88 130 L78 145 L68 130 L52 138 L48 120 L28 118 L35 98 L18 88 L30 75 L18 58 L36 50 L32 30 L52 32 L56 12 L76 22 Z\" fill=\"currentColor\"/>\n      <circle cx=\"70\" cy=\"75\" r=\"42\" fill=\"#FFFFFF\" fill-opacity=\"0.25\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-01",
+    "name": "Signature Sparkle Star 1",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-02",
+    "name": "Signature Sparkle Star 2",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-03",
+    "name": "Signature Sparkle Star 3",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-04",
+    "name": "Signature Sparkle Star 4",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-05",
+    "name": "Signature Sparkle Star 5",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#F43F5E",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-06",
+    "name": "Signature Sparkle Star 6",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#FACC15",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-07",
+    "name": "Signature Sparkle Star 7",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-sparkle-08",
+    "name": "Signature Sparkle Star 8",
+    "category": "doodles",
+    "tags": [
+      "sparkle",
+      "star",
+      "twinkle",
+      "glitter",
+      "canva",
+      "magic",
+      "shine"
+    ],
+    "width": 100,
+    "height": 100,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 8 C60 40, 72 52, 104 60 C72 68, 60 80, 60 112 C60 80, 48 68, 16 60 C48 52, 60 40, 60 8 Z\" fill=\"currentColor\"/>\n      <circle cx=\"94\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/>\n      <circle cx=\"26\" cy=\"94\" r=\"2.5\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-01",
+    "name": "Botanical Laurel Branch 1",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-02",
+    "name": "Botanical Laurel Branch 2",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-03",
+    "name": "Botanical Laurel Branch 3",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#F43F5E",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-04",
+    "name": "Botanical Laurel Branch 4",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#FACC15",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-05",
+    "name": "Botanical Laurel Branch 5",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-06",
+    "name": "Botanical Laurel Branch 6",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-07",
+    "name": "Botanical Laurel Branch 7",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-laurel-08",
+    "name": "Botanical Laurel Branch 8",
+    "category": "doodles",
+    "tags": [
+      "laurel",
+      "wreath",
+      "branch",
+      "leaves",
+      "botanical",
+      "achievement",
+      "win"
+    ],
+    "width": 170,
+    "height": 110,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 180 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M25 102 C38 78, 62 48, 98 28 C125 14, 148 12, 160 12\" stroke=\"currentColor\" stroke-width=\"3.5\" stroke-linecap=\"round\" fill=\"none\"/>\n      <path d=\"M38 78 C32 64, 42 56, 52 64 C56 72, 48 82, 38 78 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 88 C44 94, 46 104, 58 102 C64 96, 62 86, 52 88 Z\" fill=\"currentColor\"/>\n      <path d=\"M64 56 C58 42, 68 34, 78 42 C82 50, 74 60, 64 56 Z\" fill=\"currentColor\"/>\n      <path d=\"M78 68 C70 76, 74 86, 86 82 C90 74, 86 66, 78 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M96 38 C90 24, 102 18, 110 26 C114 34, 106 42, 96 38 Z\" fill=\"currentColor\"/>\n      <path d=\"M108 50 C100 58, 106 68, 116 64 C122 56, 116 48, 108 50 Z\" fill=\"currentColor\"/>\n      <path d=\"M130 24 C126 10, 138 6, 146 14 C148 22, 140 28, 130 24 Z\" fill=\"currentColor\"/>\n      <path d=\"M160 12 C168 4, 178 8, 175 18 C168 22, 160 18, 160 12 Z\" fill=\"currentColor\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-01",
+    "name": "Hand-Drawn King Crown 1",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-02",
+    "name": "Hand-Drawn King Crown 2",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#F43F5E",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-03",
+    "name": "Hand-Drawn King Crown 3",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#FACC15",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-04",
+    "name": "Hand-Drawn King Crown 4",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-05",
+    "name": "Hand-Drawn King Crown 5",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-crown-06",
+    "name": "Hand-Drawn King Crown 6",
+    "category": "doodles",
+    "tags": [
+      "crown",
+      "king",
+      "vip",
+      "leader",
+      "gold",
+      "doodle"
+    ],
+    "width": 110,
+    "height": 80,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 130 95\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 72 L24 28 L50 50 L68 18 L88 52 L112 26 L120 74 C115 82, 30 84, 12 72 Z\" fill=\"currentColor\"/>\n      <circle cx=\"24\" cy=\"22\" r=\"5\" fill=\"currentColor\"/>\n      <circle cx=\"68\" cy=\"12\" r=\"6\" fill=\"currentColor\"/>\n      <circle cx=\"114\" cy=\"20\" r=\"5\" fill=\"currentColor\"/>\n      <path d=\"M18 80 C45 84, 85 84, 114 80 C116 86, 20 88, 18 80 Z\" fill=\"currentColor\" opacity=\"0.7\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-01",
+    "name": "Comic Action POW Explosion 1",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#F43F5E",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-02",
+    "name": "Comic Action POW Explosion 2",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#FACC15",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-03",
+    "name": "Comic Action POW Explosion 3",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-04",
+    "name": "Comic Action POW Explosion 4",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-05",
+    "name": "Comic Action POW Explosion 5",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-pow-06",
+    "name": "Comic Action POW Explosion 6",
+    "category": "doodles",
+    "tags": [
+      "pow",
+      "comic",
+      "explosion",
+      "boom",
+      "action",
+      "pop",
+      "burst"
+    ],
+    "width": 140,
+    "height": 130,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 150 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M75 10 L88 38 L118 24 L114 54 L144 58 L126 82 L148 102 L118 108 L122 134 L95 120 L78 142 L65 118 L38 132 L44 105 L14 100 L32 78 L12 55 L40 50 L34 22 L65 35 Z\" fill=\"currentColor\"/>\n      <path d=\"M75 35 L82 52 L102 44 L98 62 L116 66 L104 80 L118 92 L100 96 L102 110 L86 102 L76 114 L68 100 L52 108 L56 92 L38 90 L48 76 L36 62 L54 60 L50 44 L70 52 Z\" fill=\"#FBBF24\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-01",
+    "name": "Sketchy Doodle Heart 1",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#FACC15",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-02",
+    "name": "Sketchy Doodle Heart 2",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-03",
+    "name": "Sketchy Doodle Heart 3",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-04",
+    "name": "Sketchy Doodle Heart 4",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-05",
+    "name": "Sketchy Doodle Heart 5",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-heart-06",
+    "name": "Sketchy Doodle Heart 6",
+    "category": "doodles",
+    "tags": [
+      "heart",
+      "love",
+      "sketch",
+      "doodle",
+      "pink",
+      "favorite"
+    ],
+    "width": 100,
+    "height": 95,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 120 110\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M60 98 C45 82, 10 58, 12 32 C14 14, 32 6, 48 16 C55 22, 58 28, 60 32 C62 28, 65 22, 72 16 C88 6, 106 14, 108 32 C110 58, 75 82, 60 98 Z\" fill=\"currentColor\"/>\n      <path d=\"M52 26 C42 18, 30 20, 24 30 C20 40, 26 55, 42 70\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-01",
+    "name": "Hand-Drawn Lightning Bolt 1",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#38BDF8",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-02",
+    "name": "Hand-Drawn Lightning Bolt 2",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#60A5FA",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-03",
+    "name": "Hand-Drawn Lightning Bolt 3",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#F59E0B",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-04",
+    "name": "Hand-Drawn Lightning Bolt 4",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#8B5CF6",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-05",
+    "name": "Hand-Drawn Lightning Bolt 5",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#10B981",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  },
+  {
+    "id": "doodle-lightning-06",
+    "name": "Hand-Drawn Lightning Bolt 6",
+    "category": "doodles",
+    "tags": [
+      "lightning",
+      "bolt",
+      "flash",
+      "energy",
+      "electric",
+      "doodle"
+    ],
+    "width": 90,
+    "height": 130,
+    "defaultColor": "#EF4444",
+    "svg": "<svg viewBox=\"0 0 100 140\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M58 8 L22 65 L48 65 L36 132 L78 68 L52 68 Z\" fill=\"currentColor\"/>\n      <path d=\"M58 8 L54 28 L42 65 L52 68 L36 132 L40 108 L78 68 L62 68 Z\" fill=\"#EAB308\" opacity=\"0.6\"/>\n    </svg>"
+  }
+]

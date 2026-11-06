@@ -1,0 +1,6 @@
+<svg viewBox="0 0 240 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 10 L228 10 L234 16 L228 22 L236 28 L228 34 L234 40 L228 46 L12 46 L6 40 L12 34 L4 28 L12 22 L6 16 Z" fill="currentColor" fill-opacity="0.85"/>
+      <line x1="40" y1="12" x2="65" y2="44" stroke="#FFFFFF" stroke-width="2" opacity="0.4"/>
+      <line x1="120" y1="12" x2="145" y2="44" stroke="#FFFFFF" stroke-width="2" opacity="0.4"/>
+      <line x1="190" y1="12" x2="215" y2="44" stroke="#FFFFFF" stroke-width="2" opacity="0.4"/>
+    </svg>
